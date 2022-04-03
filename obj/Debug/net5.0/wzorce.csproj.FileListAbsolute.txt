@@ -1,0 +1,16 @@
+C:\Users\splaw\source\repos\wzorce\bin\Debug\net5.0\wzorce.exe
+C:\Users\splaw\source\repos\wzorce\bin\Debug\net5.0\wzorce.deps.json
+C:\Users\splaw\source\repos\wzorce\bin\Debug\net5.0\wzorce.runtimeconfig.json
+C:\Users\splaw\source\repos\wzorce\bin\Debug\net5.0\wzorce.runtimeconfig.dev.json
+C:\Users\splaw\source\repos\wzorce\bin\Debug\net5.0\wzorce.dll
+C:\Users\splaw\source\repos\wzorce\bin\Debug\net5.0\ref\wzorce.dll
+C:\Users\splaw\source\repos\wzorce\bin\Debug\net5.0\wzorce.pdb
+C:\Users\splaw\source\repos\wzorce\obj\Debug\net5.0\wzorce.csproj.AssemblyReference.cache
+C:\Users\splaw\source\repos\wzorce\obj\Debug\net5.0\wzorce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\splaw\source\repos\wzorce\obj\Debug\net5.0\wzorce.AssemblyInfoInputs.cache
+C:\Users\splaw\source\repos\wzorce\obj\Debug\net5.0\wzorce.AssemblyInfo.cs
+C:\Users\splaw\source\repos\wzorce\obj\Debug\net5.0\wzorce.csproj.CoreCompileInputs.cache
+C:\Users\splaw\source\repos\wzorce\obj\Debug\net5.0\wzorce.dll
+C:\Users\splaw\source\repos\wzorce\obj\Debug\net5.0\ref\wzorce.dll
+C:\Users\splaw\source\repos\wzorce\obj\Debug\net5.0\wzorce.pdb
+C:\Users\splaw\source\repos\wzorce\obj\Debug\net5.0\wzorce.genruntimeconfig.cache
